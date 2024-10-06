@@ -1,3 +1,4 @@
 .idea
 env
 webapp/db.sqlite3
+webapp/settings.py
