@@ -2,3 +2,4 @@
 env
 webapp/db.sqlite3
 webapp/settings.py
+webapp/testapp/migrations
